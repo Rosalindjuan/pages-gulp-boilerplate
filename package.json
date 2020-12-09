@@ -2,7 +2,12 @@
   "name": "pages-gulp-boilerplate",
   "version": "1.0.0",
   "description": "samll gulp boilerplate ",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "bin": "bin/pages-gulp-boilerplate.js",
+  "files": [
+    "lib",
+    "bin"
+  ], 
   "repository": "https://github.com/Rosalindjuan/pages-gulp-boilerplate.git",
   "author": "rosalind.zhang",
   "license": "MIT",
@@ -27,10 +32,5 @@
     "gulp-swig": "^0.9.1",
     "gulp-uglify": "^3.0.2",
     "gulp-useref": "^3.1.6"
-  },
-  "dependencies": {
-    "bootstrap": "^4.5.3",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
   }
 }
