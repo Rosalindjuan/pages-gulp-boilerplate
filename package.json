@@ -1,13 +1,13 @@
 {
   "name": "pages-gulp-boilerplate",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "samll gulp boilerplate ",
   "main": "lib/index.js",
   "bin": "bin/pages-gulp-boilerplate.js",
   "files": [
     "lib",
     "bin"
-  ], 
+  ],
   "repository": "https://github.com/Rosalindjuan/pages-gulp-boilerplate.git",
   "author": "rosalind.zhang",
   "license": "MIT",
